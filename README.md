@@ -1,5 +1,5 @@
 # circumspectus
-Chess Grandmaster Classification with Deep Learning
+Identifying Chess GMs (GrandMasters) from their games using Deep Learning.
 
 Final project for MSc Level Deep Learning course at Bilkent University
 
